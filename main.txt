@@ -1,0 +1,12 @@
+void main()
+{
+  
+}
+int fonction1()
+{
+
+}
+int fonction2()
+{
+
+}
