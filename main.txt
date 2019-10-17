@@ -1,11 +1,20 @@
 void main()
 {
+
   int i;
   i = fonction2();
+  fonction1();
+
 }
 int fonction1()
 {
-
+  int a;
+  int b;
+  
+  char carac;
+  
+  scanf("%d", &a);
+  printf("hello");
 }
 int fonction2()
 {
