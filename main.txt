@@ -18,17 +18,5 @@ int fonction1()
 }
 int fonction2()
 {
-  blablalbalba
-  l
-  dlzqzd
-  
-  zq
-  zd
-  zzd
-  zddz
-  z
-  z
-  z
-  z
-  z
+  modification - desktop
 }
