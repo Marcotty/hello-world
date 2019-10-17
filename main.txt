@@ -1,6 +1,7 @@
 void main()
 {
-  
+  int i;
+  i = fonction2();
 }
 int fonction1()
 {
@@ -8,5 +9,17 @@ int fonction1()
 }
 int fonction2()
 {
-
+  blablalbalba
+  l
+  dlzqzd
+  
+  zq
+  zd
+  zzd
+  zddz
+  z
+  z
+  z
+  z
+  z
 }
